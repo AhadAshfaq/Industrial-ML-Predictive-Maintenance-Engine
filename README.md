@@ -34,6 +34,6 @@ To demonstrate an end-to-end industrial machine learning pipeline capable of pro
    streamlit run app.py
    ```
 
-**📸 Live Monitoring Interface**
+## 📸 Live Monitoring Interface
 
 ![Dashboard](predictive_maintenance_demo.png)
